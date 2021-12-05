@@ -400,7 +400,7 @@
           "architecture": "nrf52",
           "version": "0.1.0",
           "category": "Milador",
-          "url": "https://github.com/milador/milador-arduino/blob/master/boards/milador-nrf52-0.1.0.zip?raw=true",
+          "url": "https://github.com/milador/milador-arduino/raw/main/boards/milador-nrf52-0.1.0.zip",
           "archiveFileName": "milador-nrf52-0.1.0.zip",
           "checksum": "SHA-256:26376844651f342211e01afff364fc8d89f7d128252e26185ff7b01088b571dc",
           "size": "19655415",
