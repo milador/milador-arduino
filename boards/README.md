@@ -1,6 +1,6 @@
 # Manual Arduino IDE Installation Instructions 
 
-  1. Open the new board information to boards.txt under C:\Users\\[User Name]\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\1.3.0\boards.txt
+  1. Open boards.txt using a text editor. The file is located under C:\Users\\[User Name]\AppData\Local\Arduino15\packages\adafruit\hardware\nrf52\1.3.0\boards.txt
 
   2. Copy paste following at the end of file:
 
